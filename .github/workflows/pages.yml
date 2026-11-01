@@ -26,7 +26,7 @@ jobs:
       - name: Extract website archive
         run: |
           mkdir site
-          unzip deploy/MINYCAN-EXPERIENCE.zip -d site
+          unzip MINYCAN-EXPERIENCE.zip -d site
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
