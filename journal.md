@@ -20,3 +20,8 @@
 - Vérifié que la version publiée servait encore les anciens messages dans certains cas, malgré la réussite du déploiement v2.
 - Versionné la chaîne d'import des modules JavaScript pour forcer le navigateur à récupérer les textes révisés.
 - Préparé et vérifié l'archive v3 ; sa publication et la vérification en ligne restent à faire.
+
+## 2026-11-02 — Copilot
+- Publié l'archive v3 et le workflow mis à jour sur GitHub ; le workflow Pages s'est terminé avec succès.
+- Vérifié en ligne les messages révisés, les huit portfolios, et l'absence de débordement horizontal aux largeurs iPhone (390 px) et bureau (1440 px).
+- À faire : tester sur un vrai iPhone et un vrai Android ; confirmer le numéro WhatsApp avant de partager le lien.
